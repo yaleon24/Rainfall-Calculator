@@ -1,0 +1,2 @@
+# Rainfall-Calculator
+Write a program that lets the user enter the total rainfall for each of 12 months into an array of doubles.  The program should calculate and display the total rainfall for a year, the average monthly rainfall, and the months with the highest and lowest amounts.  The program should also display the list of months, sorted in order of rainfall from highest to lowest.   In your getRainfall() function you need the following:  cout &lt;&lt; months[i] &lt;&lt; ": ";  Prompt the user with the month!  Do not accept negative numbers for monthly rainfall figures.
